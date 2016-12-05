@@ -56,5 +56,3 @@ zip: detab tolf $(SOURCE)
 
 gitzip:
 	git archive --format=zip HEAD > undead.zip
-
-
